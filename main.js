@@ -44,8 +44,14 @@ if (localStorage.getItem("products")) {
             added_to_cart: false
         },
         {
-            product_name: "Bí kíp: Vạn tiễn quy tiên-một cân một bầy",
+            product_name: "Bí kíp: Vạn tiễn quy tiên - một cân một bầy",
             product_price: "70.599.000đ",
+            product_image: "img-giaynike.jpg",
+            added_to_cart: false
+        },
+        {
+            product_name: "Bí kíp võ thuật tối cao - chúng sinh bình đẳng",
+            product_price: "999.000.000.000đ",
             product_image: "img-giaynike.jpg",
             added_to_cart: false
         }
