@@ -46,13 +46,13 @@ if (localStorage.getItem("products")) {
         {
             product_name: "Bí kíp: Vạn tiễn quy tiên - một cân một bầy",
             product_price: "70.599.000đ",
-            product_image: "IMG-1448.jpeg",
+            product_image: "IMG_1448.jpeg",
             added_to_cart: false
         },
         {
             product_name: "Bí kíp võ thuật tối cao - chúng sinh bình đẳng",
             product_price: "999.000.000.000đ",
-            product_image: "IMG-1449.jpeg",
+            product_image: "IMG_1449.jpeg",
             added_to_cart: false
         }
         
