@@ -42,7 +42,14 @@ if (localStorage.getItem("products")) {
             product_price: "21.799.000đ",
             product_image: "img-camera.jpg",
             added_to_cart: false
+        },
+        {
+            product_name: "Bí kíp: Vạn tiễn quy tiên-một cân một bầy",
+            product_price: "70.599.000đ",
+            product_image: "img-giaynike.jpg",
+            added_to_cart: false
         }
+        
     ]
 
     // Save the default array to localStorage
